@@ -1,1 +1,2 @@
-# tamu-vccm.github.io
+# VCCM
+Visual Computing and Computational Media
